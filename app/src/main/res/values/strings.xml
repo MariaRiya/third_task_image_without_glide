@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThirdTask Image without glide</string>
+    <string name="button_uri">Load image</string>
+    <string name="enter_url_adress">Enter url address</string>
+    <string name="picture_1">https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</string>
+    <string name="picture_wrong">htttps://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</string>
+    <string name="picture_2">https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y</string>
+</resources>
